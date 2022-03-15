@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DispensadoradeSara", "DispensadoradeSara\DispensadoradeSara.csproj", "{1E5B7DF2-E271-4BC4-AB44-D26A3C56A0DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dispensador", "Dispensador\Dispensador.csproj", "{95EC8174-7738-4A1E-A8F1-AE41906E413C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E5B7DF2-E271-4BC4-AB44-D26A3C56A0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5B7DF2-E271-4BC4-AB44-D26A3C56A0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5B7DF2-E271-4BC4-AB44-D26A3C56A0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5B7DF2-E271-4BC4-AB44-D26A3C56A0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95EC8174-7738-4A1E-A8F1-AE41906E413C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95EC8174-7738-4A1E-A8F1-AE41906E413C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95EC8174-7738-4A1E-A8F1-AE41906E413C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95EC8174-7738-4A1E-A8F1-AE41906E413C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0C28331-C521-45CE-9EF4-0FEB4497503C}
+	EndGlobalSection
+EndGlobal
